@@ -1,0 +1,2 @@
+# strict
+Strict Layout
